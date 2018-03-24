@@ -3,3 +3,7 @@ colores
 amarillo:#ecb807;
 azul:#1d809f;
 **/
+.bienvenida{
+	background-image: url(../img/bg-masthead.jpg);
+	height: 500px;
+}
