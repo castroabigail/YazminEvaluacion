@@ -71,3 +71,37 @@ h1{
 	margin-top: 5%;
 	text-align: center;
 }
+.parte4{
+	background-image: url(../img/bg-callout.jpg);
+	height: 500px;
+}
+.textportafolio{
+	text-align: center;
+	margin-top: 8%;
+	color: #ecb807;
+}
+.textrecent{
+	text-align: center;
+	color: black;
+	font-size: 40px;
+	margin-top: 2%;
+}
+.parte5{
+	height: 280px;
+	background-color: #f8f9fa;
+}
+.parte6{
+	background-image: url(../img/portfolio-1.jpg);
+	height: 300px;
+	width: 300px;
+	margin-left: 70px;
+	display: block;
+	
+}
+.parte7{
+	background-image: url(../img/portfolio-2.jpg);
+	width: 200px;
+	height: 200px;
+	float: left;
+	
+}
