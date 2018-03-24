@@ -7,3 +7,67 @@ azul:#1d809f;
 	background-image: url(../img/bg-masthead.jpg);
 	height: 500px;
 }
+h1{
+	text-align: center;
+	margin-top: 15%;
+	color: black;
+	font-size: 60px;
+}
+.subtitulobienvenida{
+	text-align: center;
+	font-size: 20px;
+}
+.boton1{
+	display: block;
+	margin:auto;
+	margin-top: 15px;
+}
+.parte2{
+	height: 280px;
+	background-color: #f8f9fa;
+}
+.tituloparte2{
+	text-align: center;
+	margin-top: 6%;
+}
+.textparte2{
+	text-align: center;
+	margin-top: 1%;
+}
+.what{
+	display: block;
+	margin:auto;
+	margin-top: 3%;
+}
+.textservices{
+	text-align: center;
+	margin-top: 8%;
+	color: #ecb807;
+}
+.textwhat{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	margin-top: 2%;
+}
+.parte3{
+	background-color: #1d809f; 
+	height: 500px;
+}
+#iconos{
+	display: block;
+	margin:auto;
+	margin-top: 20%;
+	color: white;
+}
+.subtdeicono{
+	text-align: center;
+	margin-top: 5%;
+	color: white;
+}
+.parrafodeicono{
+	text-align: center;
+	color: white;
+	margin-top: 5%;
+	text-align: center;
+}
