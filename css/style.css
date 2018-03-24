@@ -90,18 +90,63 @@ h1{
 	height: 280px;
 	background-color: #f8f9fa;
 }
-.parte6{
+.imghojas{
 	background-image: url(../img/portfolio-1.jpg);
-	height: 300px;
-	width: 300px;
+	background-image: url(../img/portfolio-2.jpg);
+	width: 400px;
+	height: 400px;
 	margin-left: 70px;
-	display: block;
+	background-repeat: no-repeat;
+	 background-position: center;
+	 float: left;
 	
 }
-.parte7{
+.imglapizblanco{
 	background-image: url(../img/portfolio-2.jpg);
 	width: 200px;
 	height: 200px;
-	float: left;
+	background-repeat: no-repeat;
+   background-position: bottom right;
+   margin-left: 600px;
 	
+}
+.img11 {
+  background-image: url(../img/portfolio-1.jpg);
+  display:inline-block;
+  width: 500px;
+  height: 400px;
+  text-align: center;
+}
+.img12 {
+  background-image: url(../img/portfolio-2.jpg);
+  display:inline-block;
+  width: 500px;
+  height: 400px;
+  text-align: center;
+}
+.img13 {
+  background-image: url(../img/portfolio-3.jpg);
+  display:inline-block;
+  width: 500px;
+  height: 400px;
+  text-align: center;
+}
+.img14 {
+  background-image: url(../img/portfolio-4.jpg);
+  display:inline-block;
+  width: 500px;
+  height: 400px;
+  text-align: center;
+}
+.titulosimagenes{
+	color: white;
+	text-align-last: left;
+	margin-left: 5%;
+	margin-top: 200px;
+}
+.pimg{
+	color: white;
+	text-align-last: left;
+	margin-left: 5%;
+	margin-top: 30px;
 }
